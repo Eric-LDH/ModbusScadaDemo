@@ -1,4 +1,4 @@
-﻿namespace ModbusScadaDemo
+﻿namespace ModbusScada
 {
     partial class Form1
     {

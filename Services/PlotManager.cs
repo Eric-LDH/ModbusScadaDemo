@@ -2,7 +2,7 @@ using System;
 using ScottPlot;
 using ScottPlot.Plottables;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// 曲线管理器：ScottPlot 初始化、数据更新、阈值线管理

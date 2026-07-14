@@ -1,8 +1,8 @@
-# ModbusScadaDemo 文档审计报告
+# ModbusScada 文档审计报告
 
 > 审计人：多库（Docu）· 技术文档师
 > 审计日期：2026-05-27
-> 审计范围：`ModbusScadaDemo` WinForms Modbus RTU 温度监控系统 v1.0
+> 审计范围：`ModbusScada` WinForms Modbus RTU 温度监控系统 v1.0
 
 ---
 
@@ -100,7 +100,7 @@
 build_and_run.bat
 
 # 方式二：Visual Studio
-# 1. 打开 ModbusScadaDemo.sln
+# 1. 打开 ModbusScada.sln
 # 2. 还原 NuGet 包（构建时自动）
 # 3. F5 启动调试
 ```
@@ -262,7 +262,7 @@ DB存储:                                         ■   ← 每5次(5秒)
 
 ### 3.2 启动步骤
 
-1. 双击运行 `ModbusScadaDemo.exe`（或执行 `build_and_run.bat` 自动编译并启动）
+1. 双击运行 `ModbusScada.exe`（或执行 `build_and_run.bat` 自动编译并启动）
 2. 在「串口设置」面板中，下拉选择对应 COM 口（若列表为空，点击「刷新」）
 3. 点击「连接」按钮
 4. 等待 1~2 秒，观察状态栏：显示「● 已连接 | COMx」即为成功
@@ -396,7 +396,7 @@ copy scada_data_backup_20260527.db scada_data.db
 
 1. 停止程序运行
 2. 备份 `scada_data.db` 和配置
-3. 替换 `ModbusScadaDemo.exe` 为新版本
+3. 替换 `ModbusScada.exe` 为新版本
 4. 如新版本异常，替换回旧版本 exe
 5. 恢复备份的数据库文件（如新版本修改了表结构）
 
@@ -465,7 +465,7 @@ copy scada_data_backup_20260527.db scada_data.db
 
 ### 2.1 启动和连接
 
-1. 双击 `ModbusScadaDemo.exe` 启动程序
+1. 双击 `ModbusScada.exe` 启动程序
 2. 在左侧「串口设置」面板，确认 COM 口已正确选择（若为空，点击「刷新」）
 3. 点击「**连接**」按钮
 4. 观察：
@@ -555,7 +555,7 @@ copy scada_data_backup_20260527.db scada_data.db
 {
   "metadata": [
     {
-      "src": [{ "files": ["ModbusScadaDemo.csproj"] }],
+      "src": [{ "files": ["ModbusScada.csproj"] }],
       "dest": "api"
     }
   ],
@@ -584,7 +584,7 @@ copy scada_data_backup_20260527.db scada_data.db
 ### 3. 建议的文档目录结构
 
 ```
-ModbusScadaDemo/
+ModbusScada/
 ├── README.md                          # 项目入口文档
 ├── CHANGELOG.md                       # 版本变更日志
 ├── CONTRIBUTING.md                    # 贡献指南（如开源）

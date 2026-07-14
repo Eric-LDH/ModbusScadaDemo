@@ -1,6 +1,6 @@
 using System;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// 上位机全局常量定义

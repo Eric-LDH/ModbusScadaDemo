@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{44F3822C-7EDA-41BD-A017-27C29AC08DFB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ModbusScadaDemo</RootNamespace>
-    <AssemblyName>ModbusScadaDemo</AssemblyName>
+    <RootNamespace>ModbusScada</RootNamespace>
+    <AssemblyName>ModbusScada</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -119,6 +119,7 @@
     <Compile Include="Services\ModbusDriver.cs" />
     <Compile Include="Services\PlotManager.cs" />
     <Compile Include="Services\SerialPortManager.cs" />
+    <Compile Include="Services\DataPushService.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

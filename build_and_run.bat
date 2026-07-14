@@ -7,9 +7,9 @@ echo.
 
 REM 设置项目路径
 set PROJECT_DIR=%~dp0
-set SOLUTION_FILE=%PROJECT_DIR%ModbusScadaDemo.sln
+set SOLUTION_FILE=%PROJECT_DIR%ModbusScada.sln
 set CONFIG=Debug
-set EXE_PATH=%PROJECT_DIR%bin\%CONFIG%\ModbusScadaDemo.exe
+set EXE_PATH=%PROJECT_DIR%bin\%CONFIG%\ModbusScada.exe
 
 echo [1/3] 查找 MSBuild...
 

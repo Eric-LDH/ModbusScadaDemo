@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using NLog;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// Modbus 驱动：轮询、读写寄存器/线圈、数据校验、事件发布

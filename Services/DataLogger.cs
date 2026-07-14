@@ -3,7 +3,7 @@ using System.Data.SQLite;
 using System.IO;
 using NLog;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// 数据存储管理器：SQLite 初始化、参数化写入、自动重连

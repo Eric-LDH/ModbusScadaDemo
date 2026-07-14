@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37216.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusScadaDemo", "ModbusScadaDemo.csproj", "{44F3822C-7EDA-41BD-A017-27C29AC08DFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusScada", "ModbusScada.csproj", "{44F3822C-7EDA-41BD-A017-27C29AC08DFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

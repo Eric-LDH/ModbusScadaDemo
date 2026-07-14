@@ -1,4 +1,4 @@
-# ModbusScadaDemo 全面工程审查 + 事故响应评估报告
+# ModbusScada 全面工程审查 + 事故响应评估报告
 
 **日期**：2026-05-28
 **工作流**：工作流 1（全面代码审查）+ 工作流 3（事故响应）
@@ -164,7 +164,7 @@ Infrastructure/ (SerialPortProvider, DatabaseProvider, LogConfigurator)
 
 **整体评级**：🔴 严重不足（1.25/10）
 
-产出 4 份文档模板（已嵌入 Docu 的完整审计报告 `d:\Project\ModbusScadaDemo\doc-audit-report.md`）：
+产出 4 份文档模板（已嵌入 Docu 的完整审计报告 `d:\Project\ModbusScada\doc-audit-report.md`）：
 - README.md 模板（技术栈、快速开始、Modbus 参数速查表）
 - Modbus 寄存器映射文档（布局图、时序图、错误矩阵）
 - 运维 Runbook（启动检查清单、5 类故障排查、备份恢复）
@@ -207,7 +207,7 @@ Infrastructure/ (SerialPortProvider, DatabaseProvider, LogConfigurator)
 - **Archi（系统架构师）**：架构评估报告（架构层次图、4 条 ADR、11 项架构债务清单、Phase 1-5 Roadmap）
 - **Rex（SRE 工程师）**：事故响应评估报告（4 场景 SEV 评级、可运维性评分、状态更新模板、复盘模板、监控建议）
 - **Tessa（测试专家）**：测试策略评估报告（分层矩阵、15 个测试用例 Given-When-Then、覆盖率目标、CI/CD 建议）
-- **Docu（技术文档师）**：文档审计报告（8 维度评分、4 份文档模板、自动化建议），完整文件见 `d:\Project\ModbusScadaDemo\doc-audit-report.md`
+- **Docu（技术文档师）**：文档审计报告（8 维度评分、4 份文档模板、自动化建议），完整文件见 `d:\Project\ModbusScada\doc-audit-report.md`
 
 ---
 

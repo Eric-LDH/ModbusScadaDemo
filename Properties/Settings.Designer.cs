@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ModbusScadaDemo.Properties {
+namespace ModbusScada.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

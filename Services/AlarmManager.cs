@@ -1,7 +1,7 @@
 using System;
 using NLog;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// 报警管理器：死区防抖逻辑

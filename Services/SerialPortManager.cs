@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using Modbus.Device;
 using NLog;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// 串口管理器：扫描、连接、断开、自动重连

@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using NLog;
 using WinColor = System.Drawing.Color;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     public partial class Form1 : Form
     {
@@ -19,6 +19,7 @@ namespace ModbusScadaDemo
         private DataLogger _dataLogger;
         private PlotManager _plotMgr;
         private volatile bool _isClosing;
+        private DataPushService _dataPushService;
 
         public Form1()
         {
@@ -52,6 +53,9 @@ namespace ModbusScadaDemo
                 _modbusDriver = new ModbusDriver(_serialMgr);
                 _modbusDriver.TemperatureUpdated += OnTemperatureUpdated;
                 _modbusDriver.ConnectionLost += OnConnectionLost;
+
+                // 初始化数据推送服务（推送至 Web 后端）
+                _dataPushService = new DataPushService(_modbusDriver, _alarmMgr, _serialMgr);
 
                 // 初始化曲线管理器（延迟到窗体显示后）
                 _plotMgr = new PlotManager();
@@ -461,6 +465,7 @@ namespace ModbusScadaDemo
             _modbusDriver?.Dispose();
             _serialMgr?.Dispose();
             _dataLogger?.Dispose();
+            _dataPushService?.Dispose();
 
             // 关闭日志
             LogConfig.Shutdown();

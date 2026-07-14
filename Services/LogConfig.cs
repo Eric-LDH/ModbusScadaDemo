@@ -4,7 +4,7 @@ using NLog;
 using NLog.Config;
 using NLog.Targets;
 
-namespace ModbusScadaDemo
+namespace ModbusScada
 {
     /// <summary>
     /// NLog 日志配置（代码配置，无需 nlog.config 文件）

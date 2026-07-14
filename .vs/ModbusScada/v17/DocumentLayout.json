@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ModbusScadaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:38:57.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Project\\ModbusScadaDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:38:55.881Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScadaData.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Models\\ScadaData.cs",
+              "RelativeDocumentMoniker": "Models\\ScadaData.cs",
+              "ToolTip": "D:\\Project\\ModbusScadaDemo\\Models\\ScadaData.cs",
+              "RelativeToolTip": "Models\\ScadaData.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:38:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Project\\ModbusScadaDemo\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-14T06:36:01.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
