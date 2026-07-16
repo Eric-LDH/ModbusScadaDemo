@@ -124,11 +124,11 @@ build_and_run.bat
 
 | 文档 | 路径 | 说明 |
 |------|------|------|
-| 架构设计文档 | `document/architecture/architecture-design.md` | 系统架构、组件职责、线程模型 |
-| 开发指南 | `document/development/development-guide.md` | 环境搭建、调试、测试策略 |
-| 用户手册 | `document/user/user-manual.md` | 界面说明、操作流程、故障排查 |
-| API 接口文档 | `document/api/api-specification.md` | Web 推送接口、签名算法 |
-| 部署运维文档 | `document/deployment/deployment-guide.md` | 安装部署、配置调优、日常维护 |
+| 架构设计文档 | `document/architecture/架构设计文档.md` | 系统架构、组件职责、线程模型 |
+| 开发指南 | `document/development/开发指南.md` | 环境搭建、调试、测试策略 |
+| 用户手册 | `document/user/用户手册.md` | 界面说明、操作流程、故障排查 |
+| API 接口文档 | `document/api/接口文档.md` | Web 推送接口、签名算法 |
+| 部署运维文档 | `document/deployment/部署运维文档.md` | 安装部署、配置调优、日常维护 |
 
 ---
 
