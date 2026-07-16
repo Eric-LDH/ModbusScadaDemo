@@ -1,22 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\ModbusScadaDemo\\",
+  "WorkspaceRootPath": "D:\\Project\\ModbusScada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\modbusdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\modbusdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|D:\\Project\\ModbusScada\\models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:models\\scadadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|d:\\project\\modbusscadademo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|D:\\Project\\ModbusScada\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\alarmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\alarmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\datalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\datalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\datapushservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\datapushservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\logconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\logconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|d:\\project\\modbusscada\\services\\plotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScada.csproj|solutionrelative:services\\plotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|D:\\Project\\ModbusScada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F3822C-7EDA-41BD-A017-27C29AC08DFB}|ModbusScadaDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +62,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScadaData.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Models\\ScadaData.cs",
+              "RelativeDocumentMoniker": "Models\\ScadaData.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Models\\ScadaData.cs",
+              "RelativeToolTip": "Models\\ScadaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:00:44.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataLogger.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\DataLogger.cs",
+              "RelativeDocumentMoniker": "Services\\DataLogger.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\DataLogger.cs",
+              "RelativeToolTip": "Services\\DataLogger.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:56:47.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogConfig.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\LogConfig.cs",
+              "RelativeDocumentMoniker": "Services\\LogConfig.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\LogConfig.cs",
+              "RelativeToolTip": "Services\\LogConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:56:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlotManager.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\PlotManager.cs",
+              "RelativeDocumentMoniker": "Services\\PlotManager.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\PlotManager.cs",
+              "RelativeToolTip": "Services\\PlotManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:56:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataPushService.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\DataPushService.cs",
+              "RelativeDocumentMoniker": "Services\\DataPushService.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\DataPushService.cs",
+              "RelativeToolTip": "Services\\DataPushService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:46:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlarmManager.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\AlarmManager.cs",
+              "RelativeDocumentMoniker": "Services\\AlarmManager.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\AlarmManager.cs",
+              "RelativeToolTip": "Services\\AlarmManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:45:50.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Project\\ModbusScada\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-16T01:38:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "Title": "ModbusDriver.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Services\\ModbusDriver.cs",
+              "RelativeDocumentMoniker": "Services\\ModbusDriver.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Services\\ModbusDriver.cs",
+              "RelativeToolTip": "Services\\ModbusDriver.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAIAxwGkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:44:24.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:36:37.494Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAIAwwIQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T06:38:57.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Form1.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Project\\ModbusScadaDemo\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\ModbusScadaDemo\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T06:38:55.881Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-07-14T06:38:55.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ScadaData.cs",
-              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\Models\\ScadaData.cs",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\Models\\ScadaData.cs",
               "RelativeDocumentMoniker": "Models\\ScadaData.cs",
-              "ToolTip": "D:\\Project\\ModbusScadaDemo\\Models\\ScadaData.cs",
+              "ToolTip": "D:\\Project\\ModbusScada\\Models\\ScadaData.cs",
               "RelativeToolTip": "Models\\ScadaData.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAQwA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T06:38:16.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T06:38:16.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\Project\\ModbusScadaDemo\\App.config",
+              "DocumentMoniker": "D:\\Project\\ModbusScada\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "D:\\Project\\ModbusScadaDemo\\App.config",
+              "ToolTip": "D:\\Project\\ModbusScada\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-07-14T06:36:01.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T06:36:01.808Z"
             }
           ]
         }

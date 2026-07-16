@@ -181,7 +181,7 @@
             this.numAlarmThreshold.TabIndex = 0;
             this.numAlarmThreshold.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.numAlarmThreshold.Value = new decimal(new int[] {
-            50,
+            40,
             0,
             0,
             0});
